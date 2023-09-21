@@ -1,0 +1,324 @@
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\appsettings.Development.json
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\appsettings.json
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\PracticeCrud.exe
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\PracticeCrud.deps.json
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\PracticeCrud.runtimeconfig.json
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\PracticeCrud.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\PracticeCrud.pdb
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\obj\Debug\net6.0\PracticeCrud.csproj.AssemblyReference.cache
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\obj\Debug\net6.0\PracticeCrud.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\obj\Debug\net6.0\PracticeCrud.AssemblyInfoInputs.cache
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\obj\Debug\net6.0\PracticeCrud.AssemblyInfo.cs
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\obj\Debug\net6.0\PracticeCrud.csproj.CoreCompileInputs.cache
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\obj\Debug\net6.0\PracticeCrud.MvcApplicationPartsAssemblyInfo.cs
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\obj\Debug\net6.0\PracticeCrud.MvcApplicationPartsAssemblyInfo.cache
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\obj\Debug\net6.0\staticwebassets.build.json
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\obj\Debug\net6.0\staticwebassets.development.json
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\obj\Debug\net6.0\scopedcss\bundle\PracticeCrud.styles.css
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\obj\Debug\net6.0\PracticeCrud.csproj.CopyComplete
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\obj\Debug\net6.0\PracticeCrud.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\obj\Debug\net6.0\refint\PracticeCrud.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\obj\Debug\net6.0\PracticeCrud.pdb
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\obj\Debug\net6.0\PracticeCrud.genruntimeconfig.cache
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\obj\Debug\net6.0\ref\PracticeCrud.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\Humanizer.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Abdullah Working\Dotnet Angular\PracticeCrud\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\appsettings.Development.json
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\appsettings.json
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\PracticeCrud.exe
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\PracticeCrud.deps.json
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\PracticeCrud.runtimeconfig.json
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\PracticeCrud.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\PracticeCrud.pdb
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\Humanizer.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\obj\Debug\net6.0\PracticeCrud.csproj.AssemblyReference.cache
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\obj\Debug\net6.0\PracticeCrud.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\obj\Debug\net6.0\PracticeCrud.AssemblyInfoInputs.cache
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\obj\Debug\net6.0\PracticeCrud.AssemblyInfo.cs
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\obj\Debug\net6.0\PracticeCrud.csproj.CoreCompileInputs.cache
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\obj\Debug\net6.0\PracticeCrud.MvcApplicationPartsAssemblyInfo.cs
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\obj\Debug\net6.0\PracticeCrud.MvcApplicationPartsAssemblyInfo.cache
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\obj\Debug\net6.0\staticwebassets.build.json
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\obj\Debug\net6.0\staticwebassets.development.json
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\obj\Debug\net6.0\scopedcss\bundle\PracticeCrud.styles.css
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\obj\Debug\net6.0\PracticeCrud.csproj.CopyComplete
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\obj\Debug\net6.0\PracticeCrud.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\obj\Debug\net6.0\refint\PracticeCrud.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\obj\Debug\net6.0\PracticeCrud.pdb
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\obj\Debug\net6.0\PracticeCrud.genruntimeconfig.cache
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\obj\Debug\net6.0\ref\PracticeCrud.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\MailKit.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\MimeKit.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\NETCore.MailKit.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\FluentEmail.Core.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\FluentEmail.Smtp.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\SendGrid.dll
+D:\Abdullah Working\Angular\Angular Project\PracticeCrud\bin\Debug\net6.0\StarkbankEcdsa.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\appsettings.Development.json
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\appsettings.json
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\PracticeCrud.exe
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\PracticeCrud.deps.json
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\PracticeCrud.runtimeconfig.json
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\PracticeCrud.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\PracticeCrud.pdb
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\FluentEmail.Core.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\FluentEmail.Smtp.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Humanizer.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\MailKit.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\MimeKit.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\NETCore.MailKit.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\SendGrid.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\StarkbankEcdsa.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\obj\Debug\net6.0\PracticeCrud.csproj.AssemblyReference.cache
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\obj\Debug\net6.0\PracticeCrud.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\obj\Debug\net6.0\PracticeCrud.AssemblyInfoInputs.cache
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\obj\Debug\net6.0\PracticeCrud.AssemblyInfo.cs
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\obj\Debug\net6.0\PracticeCrud.csproj.CoreCompileInputs.cache
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\obj\Debug\net6.0\PracticeCrud.MvcApplicationPartsAssemblyInfo.cs
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\obj\Debug\net6.0\PracticeCrud.MvcApplicationPartsAssemblyInfo.cache
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\obj\Debug\net6.0\staticwebassets.build.json
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\obj\Debug\net6.0\staticwebassets.development.json
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\obj\Debug\net6.0\scopedcss\bundle\PracticeCrud.styles.css
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\obj\Debug\net6.0\PracticeCrud.csproj.CopyComplete
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\obj\Debug\net6.0\PracticeCrud.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\obj\Debug\net6.0\refint\PracticeCrud.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\obj\Debug\net6.0\PracticeCrud.pdb
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\obj\Debug\net6.0\PracticeCrud.genruntimeconfig.cache
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\obj\Debug\net6.0\ref\PracticeCrud.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Azure.Core.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Azure.Identity.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\System.CodeDom.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\System.Text.Json.dll
+D:\Abdullah Working\skote-admin-full-version-1.0\PracticeCrud\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\appsettings.Development.json
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\appsettings.json
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\PracticeCrud.exe
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\PracticeCrud.deps.json
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\PracticeCrud.runtimeconfig.json
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\PracticeCrud.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\PracticeCrud.pdb
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Azure.Core.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Azure.Identity.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\FluentEmail.Core.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\FluentEmail.Smtp.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Humanizer.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\MailKit.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\MimeKit.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\NETCore.MailKit.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\SendGrid.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\StarkbankEcdsa.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\System.CodeDom.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\System.Text.Json.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Project\PracticeCrud-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Project\PracticeCrud-master\obj\Debug\net6.0\PracticeCrud.csproj.AssemblyReference.cache
+E:\Project\PracticeCrud-master\obj\Debug\net6.0\PracticeCrud.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\PracticeCrud-master\obj\Debug\net6.0\PracticeCrud.AssemblyInfoInputs.cache
+E:\Project\PracticeCrud-master\obj\Debug\net6.0\PracticeCrud.AssemblyInfo.cs
+E:\Project\PracticeCrud-master\obj\Debug\net6.0\PracticeCrud.csproj.CoreCompileInputs.cache
+E:\Project\PracticeCrud-master\obj\Debug\net6.0\PracticeCrud.MvcApplicationPartsAssemblyInfo.cs
+E:\Project\PracticeCrud-master\obj\Debug\net6.0\PracticeCrud.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\PracticeCrud-master\obj\Debug\net6.0\staticwebassets\msbuild.PracticeCrud.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Project\PracticeCrud-master\obj\Debug\net6.0\staticwebassets\msbuild.build.PracticeCrud.props
+E:\Project\PracticeCrud-master\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PracticeCrud.props
+E:\Project\PracticeCrud-master\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PracticeCrud.props
+E:\Project\PracticeCrud-master\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Project\PracticeCrud-master\obj\Debug\net6.0\staticwebassets.build.json
+E:\Project\PracticeCrud-master\obj\Debug\net6.0\staticwebassets.development.json
+E:\Project\PracticeCrud-master\obj\Debug\net6.0\scopedcss\bundle\PracticeCrud.styles.css
+E:\Project\PracticeCrud-master\obj\Debug\net6.0\PracticeCrud.csproj.CopyComplete
+E:\Project\PracticeCrud-master\obj\Debug\net6.0\PracticeCrud.dll
+E:\Project\PracticeCrud-master\obj\Debug\net6.0\refint\PracticeCrud.dll
+E:\Project\PracticeCrud-master\obj\Debug\net6.0\PracticeCrud.pdb
+E:\Project\PracticeCrud-master\obj\Debug\net6.0\PracticeCrud.genruntimeconfig.cache
+E:\Project\PracticeCrud-master\obj\Debug\net6.0\ref\PracticeCrud.dll
